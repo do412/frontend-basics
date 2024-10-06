@@ -20,6 +20,8 @@ The website must meet these specs ⬇️
 ### Optional
 - Metadata
 - CSS & icons
+- some scripts
 - cards structure (without styling) for projects, certificates,
 - Chat App Layout (without Functionality) With AI Assest 
 - Embedded PDF for CV and link to Download
+- Deployment on GitHub
