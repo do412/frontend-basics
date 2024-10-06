@@ -25,4 +25,4 @@ The website must meet these specs ⬇️
 - CSS & icons
 - some scripts
 - portfolio / blog for the service provider
-- Deploy on GitHub
+- Deployment on GitHub
