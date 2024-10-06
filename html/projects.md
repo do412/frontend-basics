@@ -1,5 +1,5 @@
 # HTML Capastone Projects
-This projects made to refrain your skills and knowledge about webpages structures using HTML
+This projects made to refine your skills and knowledge about webpages structures using HTML
 
 ## Projects
 - [Website for your own Idea](./projects/creative.md)
