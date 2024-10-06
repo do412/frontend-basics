@@ -5,21 +5,21 @@ This project idea is Personal Portfolio for attracting clients / employers, show
 - Some Service Providers have Portfolios for testmonials / reviews on their services or a brief about them including background, skills and experience.
 
 ## Specs
-The website must meet the specs below
+The website must meet these specs ⬇️
 
 ### Mandatory
 - user-friendly UI
 - fully-organized Folder Structure
-- HTML5 Layout & containers
-- Semantics & Text Formatting
-- Links (external pages / website pages / downloads / bookmarks / contacts)
+- best practice for Name Convensions, Syntax, Structures & Comments 
+- HTML5 Layout, containers, Semantics & Text Formatting
+- Links (website pages, external pages / bookmarks & contacts)
 - Lists everywhere
 - Responsive multi-media
 - Forms (may be for contact, feedback, requesting a service ..)
-- Comments in best practice
 
 ### Optional
 - Metadata
 - CSS & icons
-- cards structure (without styling) for projects, certificates, 
-- Embedded PDF for CV and Download Link
+- cards structure (without styling) for projects, certificates,
+- Chat App Layout (without Functionality) With AI Assest 
+- Embedded PDF for CV and link to Download
