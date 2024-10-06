@@ -18,4 +18,4 @@ What ever your idea, your website must meet these specs ⬇️
 - Metadata
 - CSS & icons
 - some scripts
-- Deploy on GitHub
+- Deployment on GitHub
