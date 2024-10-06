@@ -19,4 +19,4 @@ The website must meet these specs ⬇️
 - CSS & icons
 - some scripts
 - more than one color / style for the same product previewed using image map element
-- Deploy on GitHub
+- Deployment on GitHub
