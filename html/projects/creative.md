@@ -2,7 +2,7 @@
 This project idea is up to you.
 
 ## Specs
-What ever your idea, your website must meet the specs below
+What ever your idea, your website must meet these specs ⬇️
 
 ### Mandatory
 - user-friendly UI
