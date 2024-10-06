@@ -1,4 +1,4 @@
-# Build a Website Based on your Idea
+# Build a Website for Service Provider
 This project idea is for Service like products of a company, startup or indviduals. Also it can be a platform for job oppertunities and freelancing. You can extend the idea to be for any service provided even it's provided by non-profit charities.
 
 ## Specs
