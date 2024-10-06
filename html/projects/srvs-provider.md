@@ -18,3 +18,4 @@ The website must meet the specs below
 ### Optional
 - Metadata
 - CSS & icons
+- portfolio / blog for the service provider
