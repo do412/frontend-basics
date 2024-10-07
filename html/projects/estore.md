@@ -1,4 +1,4 @@
-# Build a Website Based on your Idea
+# E-commerce Website
 This project idea is for a platform where you can buy or sell products / services online. This website usually contains cards for products / services with search form and organized categories listsYour website can'y be only a webpage so it consists of:
 - home page
 - indexing for all products / services (grid / list view)
